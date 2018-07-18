@@ -15,6 +15,7 @@ PODS:
   - AFNetworking/UIKit (3.2.1):
     - AFNetworking/NSURLSession
   - CocoaSecurity (1.2.4)
+  - CYLTabBarController (1.17.13)
   - DateTools (2.0.0)
   - DeviceUtil (2.1.3)
   - DZNEmptyDataSet (1.8.2)
@@ -38,6 +39,7 @@ PODS:
 
 DEPENDENCIES:
   - CocoaSecurity (~> 1.2.4)
+  - CYLTabBarController (~> 1.17.4)
   - DateTools (~> 2.0.0)
   - DeviceUtil
   - DZNEmptyDataSet (from `https://raw.githubusercontent.com/y1024/DZNEmptyDataSet/1.8.2/DZNEmptyDataSet.podspec`)
@@ -54,6 +56,7 @@ SPEC REPOS:
   https://github.com/cocoapods/specs.git:
     - AFNetworking
     - CocoaSecurity
+    - CYLTabBarController
     - DateTools
     - DeviceUtil
     - IQKeyboardManager
@@ -72,6 +75,7 @@ EXTERNAL SOURCES:
 SPEC CHECKSUMS:
   AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
   CocoaSecurity: d288a6f87e0f363823d2cb83e753814a6944f71a
+  CYLTabBarController: 2054edbec171841dd8de0286ab206d99655d970f
   DateTools: 933ac9c490f21f92127cf690ccd8c397e0126caf
   DeviceUtil: 4cf6b8bdc108ef89fe6a1c744a8d743bef9b245c
   DZNEmptyDataSet: f0e0ca1a46ebcff4518ce5834a92f4067252986f
@@ -84,6 +88,6 @@ SPEC CHECKSUMS:
   SDWebImage: c325cf02c30337336b95beff20a13df489ec0ec9
   YTKNetwork: df8a7a5597bda1664a4efaa7ef871a818a887fe0
 
-PODFILE CHECKSUM: b9430752da22d84e0c11a3e74beeb36315eedcab
+PODFILE CHECKSUM: 47afabf1f55c45af7986256e8274c8709dc284f9
 
 COCOAPODS: 1.5.3
